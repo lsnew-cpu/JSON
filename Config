@@ -1,0 +1,1127 @@
+[
+  {
+    "id": 816390,
+    "category_id": 52836,
+    "name": "🔵 NOVA TIM Válida/Expirada 🟣🚀",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "GET / HTTP/1.1[lf]Host:www.timpromos.com.br[lf][lf]CHECKOUT / HTTP/1.1[crlf]Host:timpromos.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=centraldacdn-01.dns-theromshost.com;centraldacdn-02.dns-theromshost.com;centraldacdn-4.dns-theromshost.com][crlf]Connection:upgrade[crlf]Upgrade: websocket[crlf][lf][instant_split][protocol] 444[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "108.158.186.66",
+      "port": 80
+    },
+    "server": {
+      "host": "s.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 1
+  },
+  {
+    "id": 816403,
+    "category_id": 52836,
+    "name": "🔵 NOVA TIM Válida/Expirada 2 🟣🚀",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "GET / HTTP/1.1[lf]Host: www.timpromos.com.br[lf][lf]CHECKOUT / HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=centraldacdn-01.dns-theromshost.com;centraldacdn-02.dns-theromshost.com;centraldacdn-4.dns-theromshost.com][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][lf][split]UNLOCK /? HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "108.158.186.66",
+      "port": 80
+    },
+    "server": {
+      "host": "s.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 2
+  },
+{
+    "id": 816404,
+    "category_id": 52836,
+    "name": "🔵 NOVA TIM Válida/Expirada 3 🟣🚀",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "GET / HTTP/1.1[crlf]Host:www.timlive.tim.com.br[lf][lf]ACL / HTTP/1.1[lf]Host:www.timlive.tim.com.br[crlf][instant_split][lf][lf]CHECKIN / HTTP/1.1[lf]Host:Google.com[lf][lf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=centraldacdn-01.dns-theromshost.com;centraldacdn-02.dns-theromshost.com;centraldacdn-4.dns-theromshost.com][crlf]Connection: upgrade[crlf]Upgrade: websocket[lf][lf][split][protocol] 144[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "www.timlive.tim.com.br",
+      "port": 80
+    },
+    "server": {
+      "host": "www.timlive.tim.com.br",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 3
+  },
+  {
+    "id": 816391,
+    "category_id": 52836,
+    "name": "🔵 NOVA TIM Válida 🟣🚀",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "GET / HTTP/1.1[crlf]Host: bancah.com.br[crlf][crlf][split]UNLOCK /? HTTP/1.1[crlf]Host:[host][crlf]Connection: upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][split]UNLOCK /? HTTP/1.1[crlf]Host: bancah.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "bancah.com.br",
+      "port": 80
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 4
+  },
+  {
+    "id": 816413,
+    "category_id": 52836,
+    "name": "🔵 NOVA TIM Válida 2 🟣🚀",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "GET / HTTP/1.1[crlf]Host: bancah.com.br[crlf][crlf][split]UNLOCK /? HTTP/1.1[crlf]Host:[host][crlf]Connection: upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][split]UNLOCK /? HTTP/1.1[crlf]Host: bancah.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "ayabooks.com.br",
+      "port": 80
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 5
+  },
+  {
+    "id": 816392,
+    "category_id": 52835,
+    "name": "🟣 Vivo Premium Todos os DDD's 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=redlinevpn-210399831507.southamerica-east1.run.app;kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "youtube.com"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "youtube.com",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 1
+  },
+  {
+    "id": 816393,
+    "category_id": 52835,
+    "name": "🟣 Vivo Premium Todos os DDD's 2 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=redlinevpn-210399831507.southamerica-east1.run.app;kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "images.google.com.br"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "images.google.com.br",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 2
+  },
+  {
+    "id": 816394,
+    "category_id": 52835,
+    "name": "🟣 Vivo Premium Todos os DDD's 3 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=redlinevpn-210399831507.southamerica-east1.run.app;kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "lh3.google.com.br"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "lh3.google.com.br",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 3
+  },
+  {
+    "id": 816395,
+    "category_id": 52835,
+    "name": "🟣 Vivo Premium Todos os DDD's 4 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=redlinevpn-210399831507.southamerica-east1.run.app;kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "www.ads.google.com"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "www.ads.google.com",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 4
+  },
+  {
+    "id": 816396,
+    "category_id": 52835,
+    "name": "Vivo SEC (BR 2 PREMIUM)🟣",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "[delay_split]CONNECT f.lsbrws.top:80 HTTP/1.0[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "f.lsbrws.top",
+      "port": 80
+    },
+    "server": {
+      "host": "f.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 5
+  },
+  {
+    "id": 816397,
+    "category_id": 52835,
+    "name": "Vivo SEC 2 (BR 2 PREMIUM)🟣",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "[delay_split]GET / HTTP/1.1[crlf]Host:portalrecarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "f.lsbrws.top",
+      "port": 80
+    },
+    "server": {
+      "host": "f.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 6
+  },
+  {
+    "id": 816398,
+    "category_id": 52835,
+    "name": "Vivo SEC 3 (BR 2 PREMIUM) 🟣",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "[delay_split]POST /chat HTTP/1.1[crlf]Host: c.whatsapp.net[crlf]User-Agent: Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)[crlf]Transfer-Encoding: chunked[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "f.lsbrws.top",
+      "port": 80
+    },
+    "server": {
+      "host": "f.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 7
+  },
+  {
+    "id": 816399,
+    "category_id": 52835,
+    "name": "Vivo SEC AUX (BR 2 PREMIUM)🟣",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "[delay_split]CONNECT 69.166.232.88:80 HTTP/1.0[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "69.166.232.88",
+      "port": 80
+    },
+    "server": {
+      "host": "f.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 8
+  },
+  {
+    "id": 816409,
+    "category_id": 52835,
+    "name": "Vivo SEC AUX 2(BR 2 PREMIUM)🟣",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "[delay_split]ACL wss://69.166.232.88:80 HTTP/1.1[crlf]Host:recarga.vivo.com.br[crlf]Upgrade:websocket[crlf]Connection:Keep-Alive[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "69.166.232.88",
+      "port": 80
+    },
+    "server": {
+      "host": "f.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 9
+  },
+  {
+    "id": 816410,
+    "category_id": 52835,
+    "name": "Vivo SEC AUX 3 (BR 2 PREMIUM)🟣",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: tek10.shop[crlf]Host: [rotate=academy.ehl.edu;academy.paulmueller.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "69.166.232.88",
+      "port": 80
+    },
+    "server": {
+      "host": "f.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 10
+  },
+  {
+    "id": 816414,
+    "category_id": 52835,
+    "name": "Vivo Direct 🟣",
+    "description": "Proxy",
+    "config_payload": {
+      "payload": "ACL / HTTP/1.1[crlf]Host: [rotate=cdnjs.cloudflare.com;aceitedigital.vivo.com.br;api.vivo.com.br;gateway.ipfs.cloudflare.com][crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: p1.lsbrws.top[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "104.17.64.225#104.19.240.25#104.18.27.160#104.16.239.166#104.18.28.181#104.16.237.16#104.18.33.113#141.193.213.11",
+      "port": 80
+    },
+    "server": {
+      "host": "f.lsbrws.top",
+      "port": 80
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSH_PROXY",
+    "tls_version": "TLSv1.2",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 11
+  },
+  {
+    "id": 816415,
+    "category_id": 52835,
+    "name": "Vivo TLS 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "ACL / HTTP/1.1[lf]Host: p1.lsbrws.top[lf]Upgrade: Websocket[lf][split][lf]",
+      "sni": "p1.lsbrws.top"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "104.17.64.225#104.19.240.25#104.18.27.160#104.16.239.166#104.18.28.181#104.16.237.16#104.18.33.113#141.193.213.11",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 12
+  },
+  {
+    "id": 816416,
+    "category_id": 52835,
+    "name": "Vivo TLS 2 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET / HTTP/1.1[crlf]Host:firezfalcon.nxtgen.pp.ua[crlf]Backend:app549183[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "firezfalcon.nxtgen.pp.ua"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "gedoc.vivo.com.br#recarga.vivo.com.br#web.vivo.com.br#vivo.com.br",
+      "port": 443
+    },
+    "server": {
+      "host": "gedoc.vivo.com.br#recarga.vivo.com.br#web.vivo.com.br#vivo.com.br",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 13
+  },
+  {
+    "id": 816402,
+    "category_id": 52836,
+    "name": "🔵 Tim Premium Todos os DDD's Válido 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=redlinevpn-210399831507.southamerica-east1.run.app;kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "pubsub.googleapis.com"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "pubsub.googleapis.com",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 6
+  },
+  {
+    "id": 816411,
+    "category_id": 52836,
+    "name": "🔵 Tim Premium Todos os DDD's Válido 2 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=redlinevpn-210399831507.southamerica-east1.run.app;kikoru-315851867901.southamerica-east1.run.app;grandnet-64335065511.southamerica-east1.run.app;reno-524352286309.southamerica-east1.run.app;vpnnomi-451455331067.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "www.googletagmanager.com"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "www.googletagmanager.com",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 7
+  },
+  {
+    "id": 816412,
+    "category_id": 52836,
+    "name": "🔵 Tim SLOW🟣",
+    "description": "Lenta",
+    "config_payload": {
+      "payload": "GET / HTTP/1.1[crlf][crlf]",
+      "sni": "www.googletagmanager.com"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "www.googletagmanager.com",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 8
+  },
+  {
+    "id": 816405,
+    "category_id": 52837,
+    "name": "🔴 Claro Premium Todos os DDD's 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "gstatic.com"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "gstatic.com",
+      "port": 443
+    },
+    "server": {
+      "host": "redlinevpn-210399831507.southamerica-east1.run.app#kikoru-315851867901.southamerica-east1.run.app#grandnet-64335065511.southamerica-east1.run.app#reno-524352286309.southamerica-east1.run.app#vpnnomi-451455331067.southamerica-east1.run.app#mina-986235522250.southamerica-east1.run.app#sunnytunnel-16464680209.southamerica-east1.run.app",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 1
+  },
+  {
+    "id": 816406,
+    "category_id": 52837,
+    "name": "🔴 Claro Premium Todos os DDD's 2 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "claropayprd.page.link"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "claropayprd.page.link",
+      "port": 443
+    },
+    "server": {
+      "host": "redlinevpn-210399831507.southamerica-east1.run.app#kikoru-315851867901.southamerica-east1.run.app#grandnet-64335065511.southamerica-east1.run.app#reno-524352286309.southamerica-east1.run.app#vpnnomi-451455331067.southamerica-east1.run.app#mina-986235522250.southamerica-east1.run.app#sunnytunnel-16464680209.southamerica-east1.run.app",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "hhttp://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 2
+  },
+  {
+    "id": 816407,
+    "category_id": 52837,
+    "name": "🔴 Claro Premium Todos os DDD's 3 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "www-claro-com-br.cdn.ampproject.or"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "www-claro-com-br.cdn.ampproject.or",
+      "port": 443
+    },
+    "server": {
+      "host": "redlinevpn-210399831507.southamerica-east1.run.app#kikoru-315851867901.southamerica-east1.run.app#grandnet-64335065511.southamerica-east1.run.app#reno-524352286309.southamerica-east1.run.app#vpnnomi-451455331067.southamerica-east1.run.app#mina-986235522250.southamerica-east1.run.app#sunnytunnel-16464680209.southamerica-east1.run.app",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 3
+  },
+  {
+    "id": 816408,
+    "category_id": 52837,
+    "name": "🔴 Claro SLOW 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf][crlf][crlf]",
+      "sni": null
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "www-claro-com-br.cdn.ampproject.or",
+      "port": 443
+    },
+    "server": {
+      "host": "p1.lsbrws.top",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 4
+  }
+]
