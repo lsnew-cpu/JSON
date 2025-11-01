@@ -5,7 +5,7 @@
     "name": "🔵 NOVA TIM Válida/Expirada 🟣🚀",
     "description": "Proxy",
     "config_payload": {
-      "payload": "GET / HTTP/1.1[lf]Host:www.timpromos.com.br[lf][lf]CHECKOUT / HTTP/1.1[crlf]Host:timpromos.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=centraldacdn-03.dns-theromshost.com;centraldacdn-04.dns-theromshost.com;centraldacdn-05.dns-theromshost.com][crlf]Connection:upgrade[crlf]Upgrade: websocket[crlf][lf][instant_split][protocol] 444[crlf][crlf]",
+      "payload": "GET / HTTP/1.1[lf]Host:www.timpromos.com.br[lf][lf]CHECKOUT / HTTP/1.1[crlf]Host:timpromos.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=cloudfront-1.centraldacdn.org;cloudfront-2.centraldacdn.org;cloudfront-3.centraldacdn.org][crlf]Connection:upgrade[crlf]Upgrade: websocket[crlf][lf][instant_split][protocol] 444[crlf][crlf]",
       "sni": null
     },
     "config_openvpn": null,
@@ -50,7 +50,7 @@
     "name": "🔵 NOVA TIM Válida/Expirada 2 🟣🚀",
     "description": "Proxy",
     "config_payload": {
-      "payload": "GET / HTTP/1.1[lf]Host: www.timpromos.com.br[lf][lf]CHECKOUT / HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=centraldacdn-03.dns-theromshost.com;centraldacdn-04.dns-theromshost.com;centraldacdn-05.dns-theromshost.com][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][lf][split]UNLOCK /? HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
+      "payload": "GET / HTTP/1.1[lf]Host: www.timpromos.com.br[lf][lf]CHECKOUT / HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=cloudfront-1.centraldacdn.org;cloudfront-2.centraldacdn.org;cloudfront-3.centraldacdn.org][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][lf][split]UNLOCK /? HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
       "sni": null
     },
     "config_openvpn": null,
@@ -95,7 +95,7 @@
     "name": "🔵 NOVA TIM Válida/Expirada 3 🟣🚀",
     "description": "Proxy",
     "config_payload": {
-      "payload": "GET / HTTP/1.1[crlf]Host:www.timlive.tim.com.br[lf][lf]ACL / HTTP/1.1[lf]Host:www.timlive.tim.com.br[crlf][instant_split][lf][lf]CHECKIN / HTTP/1.1[lf]Host:Google.com[lf][lf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=centraldacdn-03.dns-theromshost.com;centraldacdn-04.dns-theromshost.com;centraldacdn-05.dns-theromshost.com][crlf]Connection: upgrade[crlf]Upgrade: websocket[lf][lf][split][protocol] 144[crlf][crlf]",
+      "payload": "GET / HTTP/1.1[crlf]Host:www.timlive.tim.com.br[lf][lf]ACL / HTTP/1.1[lf]Host:www.timlive.tim.com.br[crlf][instant_split][lf][lf]CHECKIN / HTTP/1.1[lf]Host:Google.com[lf][lf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=cloudfront-1.centraldacdn.org;cloudfront-2.centraldacdn.org;cloudfront-3.centraldacdn.org][crlf]Connection: upgrade[crlf]Upgrade: websocket[lf][lf][split][protocol] 144[crlf][crlf]",
       "sni": null
     },
     "config_openvpn": null,
