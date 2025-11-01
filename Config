@@ -225,6 +225,51 @@
     "sorter": 5
   },
   {
+    "id": 816304,
+    "category_id": 52835,
+    "name": "🟣 Vivo NOVA Premium 🟣",
+    "description": "TLS",
+    "config_payload": {
+      "payload": "GET /app242 HTTP/1.1[crlf]Host: roms.cdnespecial.shop[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "roms.cdnespecial.shop"
+    },
+    "config_openvpn": null,
+    "config_v2ray": null,
+    "auth": {
+      "username": null,
+      "password": null,
+      "v2ray_uuid": null
+    },
+    "proxy": {
+      "host": "72.14.246.6",
+      "port": 443
+    },
+    "server": {
+      "host": "72.14.246.6",
+      "port": 443
+    },
+    "dnstt_key": null,
+    "dnstt_server": null,
+    "dnstt_name_server": null,
+    "hy_obfs": null,
+    "hy_up_mbps": 100,
+    "hy_down_mbps": 150,
+    "hy_insecure": true,
+    "hy_port": "13375",
+    "hy_version": 1,
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
+    "mode": "SSL_PROXY",
+    "tls_version": "TLSv1.3",
+    "status": "ACTIVE",
+    "url_check_user": "http://ch2.lsbrws.top:2052",
+    "icon": null,
+    "sorter": 1
+  },
+  {
     "id": 816392,
     "category_id": 52835,
     "name": "🟣 Vivo Premium Todos os DDD's 🟣",
@@ -267,7 +312,7 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 1
+    "sorter": 2
   },
   {
     "id": 816393,
@@ -312,7 +357,7 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 2
+    "sorter": 3
   },
   {
     "id": 816394,
@@ -357,7 +402,7 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 3
+    "sorter": 4
   },
   {
     "id": 816395,
@@ -402,7 +447,7 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 4
+    "sorter": 5
   },
   {
     "id": 816396,
@@ -447,7 +492,7 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 5
+    "sorter": 7
   },
   {
     "id": 816397,
@@ -492,7 +537,7 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 6
+    "sorter": 8
   },
   {
     "id": 816398,
@@ -537,7 +582,7 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 7
+    "sorter": 9
   },
   {
     "id": 816399,
@@ -582,7 +627,7 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 8
+    "sorter": 10
   },
   {
     "id": 816409,
@@ -627,7 +672,7 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 9
+    "sorter": 11
   },
   {
     "id": 816410,
@@ -672,7 +717,7 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 10
+    "sorter": 12
   },
   {
     "id": 816414,
@@ -717,7 +762,7 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 11
+    "sorter": 13
   },
   {
     "id": 816415,
@@ -762,7 +807,7 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 12
+    "sorter": 14
   },
   {
     "id": 816416,
@@ -807,7 +852,7 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 13
+    "sorter": 15
   },
   {
     "id": 816402,
