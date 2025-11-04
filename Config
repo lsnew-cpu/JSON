@@ -230,8 +230,8 @@
     "name": "🟣 Vivo NOVA Premium 🟣",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host: roms.cdnespecial.shop[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
-      "sni": "roms.cdnespecial.shop"
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=roms.cdnespecial.shop;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "roms.cdnespecial.shop#gcloud-1.centraldacdn.org"
     },
     "config_openvpn": null,
     "config_v2ray": null,
@@ -995,8 +995,8 @@
     "name": "🔴 Claro NOVA Premium 🟣",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host: roms.cdnespecial.shop[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
-      "sni": "roms.cdnespecial.shop"
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=roms.cdnespecial.shop;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "roms.cdnespecial.shop#gcloud-1.centraldacdn.org"
     },
     "config_openvpn": null,
     "config_v2ray": null,
