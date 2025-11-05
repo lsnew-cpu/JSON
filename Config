@@ -275,7 +275,7 @@
     "name": "🟣 Vivo Premium Todos os DDD's 🟣",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=roms.cdnespecial.shop;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-313461363887.us-east1.run.app;roms-142371580125.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "sni": "youtube.com"
     },
     "config_openvpn": null,
