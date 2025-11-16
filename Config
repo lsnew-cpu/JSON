@@ -275,7 +275,7 @@
     "name": "🟣 Vivo Premium Todos os DDD's 🟣",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-313461363887.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-598315219380.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "sni": "youtube.com"
     },
     "config_openvpn": null,
@@ -320,7 +320,7 @@
     "name": "🟣 Vivo Premium Todos os DDD's 2 🟣",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-313461363887.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-598315219380.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "sni": "images.google.com.br"
     },
     "config_openvpn": null,
@@ -365,7 +365,7 @@
     "name": "🟣 Vivo Premium Todos os DDD's 3 🟣",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-313461363887.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-598315219380.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "sni": "lh3.google.com.br"
     },
     "config_openvpn": null,
@@ -410,7 +410,7 @@
     "name": "🟣 Vivo Premium Todos os DDD's 4 🟣",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-313461363887.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-598315219380.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "sni": "www.ads.google.com"
     },
     "config_openvpn": null,
@@ -860,7 +860,7 @@
     "name": "🔵 Tim Premium Todos os DDD's Válido 🟣",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-313461363887.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-598315219380.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "sni": "pubsub.googleapis.com"
     },
     "config_openvpn": null,
@@ -905,7 +905,7 @@
     "name": "🔵 Tim Premium Todos os DDD's Válido 2 🟣",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-313461363887.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-598315219380.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "sni": "www.googletagmanager.com"
     },
     "config_openvpn": null,
@@ -1040,7 +1040,7 @@
     "name": "🔴 Claro Premium Todos os DDD's 🟣",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-313461363887.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-598315219380.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "sni": "gstatic.com"
     },
     "config_openvpn": null,
@@ -1085,7 +1085,7 @@
     "name": "🔴 Claro Premium Todos os DDD's 2 🟣",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-313461363887.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-598315219380.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "sni": "claropayprd.page.link"
     },
     "config_openvpn": null,
@@ -1130,7 +1130,7 @@
     "name": "🔴 Claro Premium Todos os DDD's 3 🟣",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-313461363887.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-598315219380.us-east1.run.app;denji-986820785395.us-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "sni": "www-claro-com-br.cdn.ampproject.or"
     },
     "config_openvpn": null,
