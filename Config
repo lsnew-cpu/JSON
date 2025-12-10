@@ -272,11 +272,11 @@
   {
     "id": 816304,
     "category_id": 52835,
-    "name": "🟣 Vivo NOVA Premium 🟣",
+    "name": "🟣 Vivo NOVA Premium",
     "description": "TLS",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=gcloud-2.centraldacdn.org;gcloud-1.centraldacdn.org][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
-      "sni": "gcloud-2.centraldacdn.org#gcloud-1.centraldacdn.org"
+      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=denji-499892478876.us-east1.run.app;satoru-1087791971072.us-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+      "sni": "s0.2mdn.net"
     },
     "config_openvpn": null,
     "config_v2ray": null,
@@ -286,11 +286,11 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "72.14.246.6",
+      "host": "172.217.172.38#172.217.28.198#172.217.29.230#172.217.30.70",
       "port": 443
     },
     "server": {
-      "host": "72.14.246.6",
+      "host": "denji-499892478876.us-east1.run.app",
       "port": 443
     },
     "dnstt_key": null,
