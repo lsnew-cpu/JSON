@@ -5,7 +5,7 @@
     "name": "🔵 NOVA TIM Válida/Expirada 🟣🚀",
     "description": "Proxy",
     "config_payload": {
-      "payload": "GET / HTTP/1.1[lf]Host:mobile-tim.brflow.com.br[crlf][crlf]CHECKOUT / HTTP/1.1[crlf]Host:mobile-tim.brflow.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=cloudfront-11.centraldacdn.org;cloudfront-12.centraldacdn.org;cloudfront-13.centraldacdn.org][crlf]Connection:upgrade[crlf]Upgrade: websocket[crlf][instant_split]HTTP/1.1 200 OK[crlf][crlf]",
+      "payload": "GET / HTTP/1.1[lf]Host:auth.tim.com.br[crlf][crlf]CHECKOUT / HTTP/1.1[crlf]Host:auth.tim.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=cloudfront-11.centraldacdn.org;cloudfront-12.centraldacdn.org;cloudfront-13.centraldacdn.org][crlf]Connection:upgrade[crlf]Upgrade: websocket[crlf][instant_split]HTTP/1.1 200 OK[crlf][crlf]",
       "sni": null
     },
     "config_openvpn": null,
