@@ -5,7 +5,7 @@
     "name": "🔵 NOVA TIM Válida/Expirada 🟣🚀",
     "description": "Proxy",
     "config_payload": {
-      "payload": "GET / HTTP/1.1[lf]Host:auth.tim.com.br[crlf][crlf]CHECKOUT / HTTP/1.1[crlf]Host:auth.tim.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=web.ndskconsultoria.cloud;cloudfront-12.centraldacdn.org;cloudfront-13.centraldacdn.org][crlf]Upgrade: websocket[crlf]Connection:Upgrade[crlf]Keep-Alive:timeout:30,max=100[crlf]User-Agent: Mozilla/5.0[crlf]Accept: */*[crlf][instant_split]HTTP/1.1 200 OK[crlf][crlf]",
+      "payload": "GET / HTTP/1.1[lf]Host:auth.tim.com.br[crlf][crlf]CHECKOUT / HTTP/1.1[crlf]Host:auth.tim.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=web.ndskconsultoria.cloud;world.artexltda.cloud;cloudfront-12.centraldacdn.org;cloudfront-13.centraldacdn.org][crlf]Upgrade: websocket[crlf]Connection:Upgrade[crlf]Keep-Alive:timeout:30,max=100[crlf]User-Agent: Mozilla/5.0[crlf]Accept: */*[crlf][instant_split]HTTP/1.1 200 OK[crlf][crlf]",
       "sni": null
     },
     "config_openvpn": null,
@@ -50,7 +50,7 @@
     "name": "🔵 TIM Válida/Expirada 2 🟣",
     "description": "Proxy",
     "config_payload": {
-      "payload": "GET / HTTP/1.1[lf]Host:auth2.tim.com.br[crlf][crlf]CHECKOUT / HTTP/1.1[crlf]Host:auth2.tim.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=web.ndskconsultoria.cloud;cloudfront-12.centraldacdn.org;cloudfront-13.centraldacdn.org][crlf]Upgrade: websocket[crlf]Connection:Upgrade[crlf]Keep-Alive:timeout:30,max=100[crlf]User-Agent: Mozilla/5.0[crlf]Accept: */*[crlf][instant_split]HTTP/1.1 200 OK[crlf][crlf]",
+      "payload": "GET / HTTP/1.1[lf]Host:auth2.tim.com.br[crlf][crlf]CHECKOUT / HTTP/1.1[crlf]Host:auth2.tim.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=web.ndskconsultoria.cloud;world.artexltda.cloud;cloudfront-12.centraldacdn.org;cloudfront-13.centraldacdn.org][crlf]Upgrade: websocket[crlf]Connection:Upgrade[crlf]Keep-Alive:timeout:30,max=100[crlf]User-Agent: Mozilla/5.0[crlf]Accept: */*[crlf][instant_split]HTTP/1.1 200 OK[crlf][crlf]",
       "sni": null
     },
     "config_openvpn": null,
