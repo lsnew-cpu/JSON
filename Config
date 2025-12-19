@@ -5,7 +5,7 @@
     "name": "🔵 NOVA TIM Válida/Expirada 🟣🚀",
     "description": "Proxy",
     "config_payload": {
-      "payload": "GET / HTTP/1.1[lf]Host:auth.tim.com.br[crlf][crlf]CHECKOUT / HTTP/1.1[crlf]Host:auth.tim.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=app.netsui.cloud;web.ndskconsultoria.cloud;world.artexltda.cloud;cloudfront-13.centraldacdn.org;cloudfront-14.centraldacdn.org][crlf]Upgrade: websocket[crlf]Connection:Upgrade[crlf]Keep-Alive:timeout:30,max=100[crlf]User-Agent: Mozilla/5.0[crlf]Accept: */*[crlf][instant_split]HTTP/1.1 200 OK[crlf][crlf]",
+      "payload": "GET / HTTP/1.1[lf]Host:auth.tim.com.br[crlf][crlf]CHECKOUT / HTTP/1.1[crlf]Host:auth.tim.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=cloudfront-13.centraldacdn.org;cloudfront-14.centraldacdn.org;cloudfront-15.centraldacdn.org][crlf]Upgrade: websocket[crlf]Connection:Upgrade[crlf]Keep-Alive:timeout:30,max=100[crlf]User-Agent: Mozilla/5.0[crlf]Accept: */*[crlf][instant_split]HTTP/1.1 200 OK[crlf][crlf]",
       "sni": null
     },
     "config_openvpn": null,
@@ -50,7 +50,7 @@
     "name": "🔵 TIM Válida/Expirada 2 🟣",
     "description": "Proxy",
     "config_payload": {
-      "payload": "GET / HTTP/1.1[lf]Host:auth2.tim.com.br[crlf][crlf]CHECKOUT / HTTP/1.1[crlf]Host:auth2.tim.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=app.netsui.cloud;web.ndskconsultoria.cloud;world.artexltda.cloud;cloudfront-13.centraldacdn.org;cloudfront-14.centraldacdn.org][crlf]Upgrade: websocket[crlf]Connection:Upgrade[crlf]Keep-Alive:timeout:30,max=100[crlf]User-Agent: Mozilla/5.0[crlf]Accept: */*[crlf][instant_split]HTTP/1.1 200 OK[crlf][crlf]",
+      "payload": "GET / HTTP/1.1[lf]Host:auth2.tim.com.br[crlf][crlf]CHECKOUT / HTTP/1.1[crlf]Host:auth2.tim.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=cloudfront-13.centraldacdn.org;cloudfront-14.centraldacdn.org;cloudfront-15.centraldacdn.org][crlf]Upgrade: websocket[crlf]Connection:Upgrade[crlf]Keep-Alive:timeout:30,max=100[crlf]User-Agent: Mozilla/5.0[crlf]Accept: */*[crlf][instant_split]HTTP/1.1 200 OK[crlf][crlf]",
       "sni": null
     },
     "config_openvpn": null,
@@ -61,7 +61,7 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "108.158.186.66",
+      "host": "108.158.186.66#13.226.52.81#3.166.160.57#108.158.122.5#108.158.186.94#13.226.52.51#18.64.174.48#18.64.207.121#18.64.207.113#99.84.252.66#108.158.122.45#108.156.83.40#108.158.122.33#108.157.173.97#108.157.173.77#108.157.173.37#108.157.173.80#3.174.59.65#3.174.59.123#108.158.186.32#3.174.59.9#3.174.59.88#3.174.59.24#18.64.207.59#99.84.252.105#108.158.186.35#108.158.122.107#108.158.122.113#3.174.59.83#18.64.207.50",
       "port": 80
     },
     "server": {
