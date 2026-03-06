@@ -20,7 +20,7 @@
       "port": 80
     },
     "server": {
-      "host": "cloudfront-06.centraldacdn.org#cloudfront-07.centraldacdn.org#cloudfront-08.centraldacdn.org",
+      "host": "cloudfront-08.centraldacdn.org#cloudfront-09.centraldacdn.org#cloudfront-10.centraldacdn.org",
       "port": 80
     },
     "dnstt_key": null,
@@ -65,7 +65,7 @@
       "port": 80
     },
     "server": {
-      "host": "cloudfront-06.centraldacdn.org#cloudfront-07.centraldacdn.org#cloudfront-08.centraldacdn.org",
+      "host": "cloudfront-08.centraldacdn.org#cloudfront-09.centraldacdn.org#cloudfront-10.centraldacdn.org",
       "port": 80
     },
     "dnstt_key": null,
