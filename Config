@@ -272,11 +272,11 @@
   {
     "id": 816304,
     "category_id": 52835,
-    "name": "🟣 Vivo NOVA Premium",
-    "description": "TLS",
+    "name": "🟣 Vivo NOVA DDD",
+    "description": "Proxy",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=denji-499892478876.us-east1.run.app;satoru-1087791971072.us-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
-      "sni": "s0.2mdn.net"
+      "payload": "[lf]GET / [split] HTTP/1.1 [lf]Host:[host][lf]Backend:app549183[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+      "sni": ""
     },
     "config_openvpn": null,
     "config_v2ray": null,
@@ -286,12 +286,12 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "172.217.172.38#172.217.28.198#172.217.29.230#172.217.30.70",
-      "port": 443
+      "host": "claro-recarga.stg.m4u.com.br",
+      "port": 80
     },
     "server": {
-      "host": "denji-499892478876.us-east1.run.app",
-      "port": 443
+      "host": "cloudfront-1.cdn-hub.org#cloudfront-2.cdn-hub.org#cloudfront-3.cdn-hub.org",
+      "port": 80
     },
     "dnstt_key": null,
     "dnstt_server": null,
@@ -307,7 +307,7 @@
       "dns2": "8.8.4.4"
     },
     "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
-    "mode": "SSL_PROXY",
+    "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
