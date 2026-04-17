@@ -20,7 +20,7 @@
       "port": 80
     },
     "server": {
-      "host": "cloudfront-1.cdn-hub.org#cloudfront-4.cdn-hub.org#cloudfront-5.cdn-hub.org",
+      "host": "cloudfront-4.cdn-hub.org#cloudfront-6.cdn-hub.org#cloudfront-7.cdn-hub.org",
       "port": 80
     },
     "dnstt_key": null,
@@ -65,7 +65,7 @@
       "port": 80
     },
     "server": {
-      "host": "cloudfront-1.cdn-hub.org#cloudfront-4.cdn-hub.org#cloudfront-5.cdn-hub.org",
+      "host": "cloudfront-4.cdn-hub.org#cloudfront-6.cdn-hub.org#cloudfront-7.cdn-hub.org",
       "port": 80
     },
     "dnstt_key": null,
