@@ -47,10 +47,10 @@
   {
     "id": 816403,
     "category_id": 52836,
-    "name": "🔵 TIM Válida/Expirada 2 🟣",
+    "name": "🔵 TIM Válida/Expirada 2 (DDD 91, 83 e outros) 🟣",
     "description": "Proxy",
     "config_payload": {
-      "payload": "GET / HTTP/1.1[lf]Host:auth2.tim.com.br[crlf][crlf]CHECKOUT / HTTP/1.1[crlf]Host:auth2.tim.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[host][crlf]Upgrade: websocket[crlf]Connection:Upgrade[crlf]Keep-Alive:timeout:30,max=100[crlf]User-Agent: Mozilla/5.0[crlf]Accept: */*[crlf][instant_split]HTTP/1.1 200 OK[crlf][crlf]",
+      "payload": "GET / HTTP/1.1[lf]Host: execution-ci360.tim.com.br[lf]Upgrade: websocket[lf][split][lf]GET- / HTTP/1.1[lf]Host: [host][lf][lf]GET /app549183 HTTP/1.1[lf]Host: [host][lf]Connection: upgrade[lf]Upgrade: websocket[lf][lf][split][lf][lf]UNLOCK / HTTP/1.1[crlf]Host: execution-ci360.tim.com.br[lf]Content-Length:9999999999999[lf][lf]",
       "sni": null
     },
     "config_openvpn": null,
@@ -61,7 +61,7 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "108.158.186.66#3.166.160.57#108.158.122.5#108.158.186.94#18.64.174.48#18.64.207.121#18.64.207.113#99.84.252.66#108.158.122.45#108.156.83.40#108.158.122.33#108.157.173.97#108.157.173.77#108.157.173.37#108.157.173.80#3.174.59.65#3.174.59.123#108.158.186.32#3.174.59.9#3.174.59.88#3.174.59.24#18.64.207.59#99.84.252.105#108.158.186.35#108.158.122.107#108.158.122.113#3.174.59.83#18.64.207.50",
+      "host": "execution-ci360.tim.com.br",
       "port": 80
     },
     "server": {
