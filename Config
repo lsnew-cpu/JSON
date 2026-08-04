@@ -20,7 +20,7 @@
       "port": 80
     },
     "server": {
-      "host": "cloudfront-05.cdn-hub.org#d3y81pr8uzfqg.cloudfront.net#d9l7mhbnyv6wq.cloudfront.net",
+      "host": "d10uie3o6uvgdr.cloudfront.net#d32p2g9x7gtheu.cloudfront.net#cloudfront-05.cdn-hub.org",
       "port": 80
     },
     "dnstt_key": null,
@@ -65,7 +65,7 @@
       "port": 80
     },
     "server": {
-      "host": "cloudfront-05.cdn-hub.org#d3y81pr8uzfqg.cloudfront.net#d9l7mhbnyv6wq.cloudfront.net",
+      "host": "d10uie3o6uvgdr.cloudfront.net#d32p2g9x7gtheu.cloudfront.net#cloudfront-05.cdn-hub.org",
       "port": 80
     },
     "dnstt_key": null,
@@ -290,7 +290,7 @@
       "port": 80
     },
     "server": {
-      "host": "cloudfront-03.cdn-hub.org#d9l7mhbnyv6wq.cloudfront.net#d9l7mhbnyv6wq.cloudfront.net",
+      "host": "d10uie3o6uvgdr.cloudfront.net#d32p2g9x7gtheu.cloudfront.net#cloudfront-05.cdn-hub.org",
       "port": 80
     },
     "dnstt_key": null,
