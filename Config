@@ -5,7 +5,7 @@
     "name": "🔵 NOVA TIM Válida/Expirada 🟣🚀",
     "description": "Proxy",
     "config_payload": {
-      "payload": "GET / HTTP/1.1[lf]Host:auth2.tim.com.br[crlf][crlf]CHECKOUT / HTTP/1.1[crlf]Host:auth2.tim.com.br[crlf][crlf]GET /app549183 HTTP/1.1[crlf]Host:[host][crlf]Upgrade: websocket[crlf]Connection:Upgrade[crlf]Keep-Alive:timeout:30,max=100[crlf]User-Agent: Mozilla/5.0[crlf]Accept: */*[crlf][instant_split]HTTP/1.1 200 OK[crlf][crlf]",
+      "payload": "GET / HTTP/1.1[lf]Host:auth2.tim.com.br[crlf][crlf]CHECKOUT / HTTP/1.1[crlf]Host:auth2.tim.com.br[crlf][crlf]GET /app043310 HTTP/1.1[crlf]Host:[host][crlf]Upgrade: websocket[crlf]Connection:Upgrade[crlf]Keep-Alive:timeout:30,max=100[crlf]User-Agent: Mozilla/5.0[crlf]Accept: */*[crlf][instant_split]HTTP/1.1 200 OK[crlf][crlf]",
       "sni": null
     },
     "config_openvpn": null,
@@ -50,7 +50,7 @@
     "name": "🔵 TIM Válida/Expirada 2 (DDD 91, 83 e outros) 🟣",
     "description": "Proxy",
     "config_payload": {
-      "payload": "GET / HTTP/1.1[lf]Host: execution-ci360.tim.com.br[lf]Upgrade: websocket[lf][split][lf]GET- / HTTP/1.1[lf]Host: [host][lf][lf]GET /app549183 HTTP/1.1[lf]Host: [host][lf]Connection: upgrade[lf]Upgrade: websocket[lf][lf][split][lf][lf]UNLOCK / HTTP/1.1[crlf]Host: execution-ci360.tim.com.br[lf]Content-Length:9999999999999[lf][lf]",
+      "payload": "GET / HTTP/1.1[lf]Host: execution-ci360.tim.com.br[lf]Upgrade: websocket[lf][split][lf]GET- / HTTP/1.1[lf]Host: [host][lf][lf]GET /app043310 HTTP/1.1[lf]Host: [host][lf]Connection: upgrade[lf]Upgrade: websocket[lf][lf][split][lf][lf]UNLOCK / HTTP/1.1[crlf]Host: execution-ci360.tim.com.br[lf]Content-Length:9999999999999[lf][lf]",
       "sni": null
     },
     "config_openvpn": null,
@@ -95,7 +95,7 @@
     "name": "🔵 TIM Válida/Expirada 3 🟣",
     "description": "Proxy",
     "config_payload": {
-      "payload": "GET / HTTP/1.1[crlf]Host:www.timlive.tim.com.br[lf][lf]ACL / HTTP/1.1[lf]Host:www.timlive.tim.com.br[crlf][instant_split][lf][lf]CHECKIN / HTTP/1.1[lf]Host:Google.com[lf][lf]GET /app549183 HTTP/1.1[crlf]Host:[rotate=server.cdntech.cloud;cloudfront-11.centraldacdn.org;cloudfront-12.centraldacdn.org;cloudfront-13.centraldacdn.org][crlf]Connection: upgrade[crlf]Upgrade: websocket[lf][lf][split][protocol] 144[crlf][crlf]",
+      "payload": "GET / HTTP/1.1[crlf]Host:www.timlive.tim.com.br[lf][lf]ACL / HTTP/1.1[lf]Host:www.timlive.tim.com.br[crlf][instant_split][lf][lf]CHECKIN / HTTP/1.1[lf]Host:Google.com[lf][lf]GET /app043310 HTTP/1.1[crlf]Host:[rotate=server.cdntech.cloud;cloudfront-11.centraldacdn.org;cloudfront-12.centraldacdn.org;cloudfront-13.centraldacdn.org][crlf]Connection: upgrade[crlf]Upgrade: websocket[lf][lf][split][protocol] 144[crlf][crlf]",
       "sni": null
     },
     "config_openvpn": null,
@@ -140,7 +140,7 @@
     "name": "🔵 NOVA TIM Válida 🟣🚀",
     "description": "Proxy",
     "config_payload": {
-      "payload": "GET /app549183 HTTP/1.1[crlf]Host:servidor.centraldacdn.com[crlf]Upgrade:websocket[crlf][crlf]",
+      "payload": "GET /app043310 HTTP/1.1[crlf]Host:servidor.centraldacdn.com[crlf]Upgrade:websocket[crlf][crlf]",
       "sni": "servidor.centraldacdn.com"
     },
     "config_openvpn": null,
@@ -275,7 +275,7 @@
     "name": "🟣 Vivo NOVA DDD",
     "description": "Proxy",
     "config_payload": {
-      "payload": "[lf]GET / [split] HTTP/1.1 [lf]Host:[host][lf]Backend:app549183[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+      "payload": "[lf]GET / [split] HTTP/1.1 [lf]Host:[host][lf]Backend:app043310[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
       "sni": ""
     },
     "config_openvpn": null,
