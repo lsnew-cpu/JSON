@@ -312,16 +312,16 @@
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 1
+    "sorter": 2
   },
   {
     "id": 816392,
     "category_id": 52835,
-    "name": "🟣 Vivo Premium Todos os DDD's 🟣",
-    "description": "TLS",
+    "name": "🟣 Vivo Cloud Full 🟣",
+    "description": "Proxy",
     "config_payload": {
-      "payload": "GET /app242 HTTP/1.1[crlf]Host:[rotate=satoru-278238034674.southamerica-east1.run.app;denji-375681954824.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "sni": "youtube.com"
+      "payload": "GET / HTTP/1.1[lf]Host:[host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+      "sni": ""
     },
     "config_openvpn": null,
     "config_v2ray": null,
@@ -331,12 +331,12 @@
       "v2ray_uuid": null
     },
     "proxy": {
-      "host": "youtube.com",
-      "port": 443
+      "host": "104.16.162.229#104.18.8.195#104.18.10.53#104.18.9.195#104.18.11.53#104.18.18.247#104.18.19.247#104.18.22.179#104.18.23.179#104.18.24.78#104.18.25.78#104.18.28.175#104.18.29.175#104.19.229.21#104.19.230.21#104.20.27.33#104.20.38.182#104.21.49.142#104.21.82.88#104.26.2.17#104.26.3.17#172.66.145.34#172.66.161.3#172.67.71.253#172.67.155.113#172.67.163.167",
+      "port": 80
     },
     "server": {
       "host": "p1.lsbrws.top",
-      "port": 443
+      "port": 80
     },
     "dnstt_key": null,
     "dnstt_server": null,
@@ -352,12 +352,12 @@
       "dns2": "8.8.4.4"
     },
     "udp_ports": [7100,7200,7300,7400,7500,7600,7700,7800,7900],
-    "mode": "SSL_PROXY",
+    "mode": "SSH_PROXY",
     "tls_version": "TLSv1.2",
     "status": "ACTIVE",
     "url_check_user": "http://ch2.lsbrws.top:2052",
     "icon": null,
-    "sorter": 2
+    "sorter": 1
   },
   {
     "id": 816393,
